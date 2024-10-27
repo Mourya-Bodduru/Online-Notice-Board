@@ -1,0 +1,99 @@
+body{
+	background-image:url('http://localhost/7.jpg');
+	background-repeat:no-repeat; 
+	background-size: cover;
+	}
+.head
+{
+	font-family:"trebuchet MS";
+	color:rgb(244, 9, 13);
+	font-size:40px; 
+	text-shadow:1px 1px 2px #000;
+	font-weight:bold;
+}
+.fields
+{
+	background-color:transparent;
+	border:solid 1px rgb(239, 5, 5);
+	height:20px;
+	border-radius: 5px;
+}
+.formTable
+{
+	padding:7px 7px;
+	border-radius:10px;
+}
+.labels
+{
+	font-family:"trebuchet MS";
+	font-size:18px;
+	font-weight:bold;
+}
+.button
+{
+	font-family:"trebuchet MS";
+	color:rgb(250, 249, 249);
+	border:2px solid rgb(19, 19, 19);
+	font-size:16px;
+	font-weight:bold;
+	border-radius:10px;
+	background:linear-gradient(rgb(54, 193, 248),rgb(252, 66, 246));
+}
+.button:hover {
+	opacity:0.9;
+	background:rgb(224, 95, 113);
+  }
+.button1{
+	font-family:'Trebuchet MS';
+	color:rgb(7, 7, 7);
+	background:linear-gradient(rgb(170, 232, 170),rgb(222, 126, 222));
+	border:2px solid #F90;
+	border-radius:5px;
+	font-size:14px;
+	font-weight:bold;
+}
+.button1:hover {
+	opacity:0.9;
+	background:linear-gradient(rgb(240, 7, 7),rgb(213, 240, 8));
+  }
+.marquee
+{
+	font-family:"trebuchet MS";
+	color:rgb(220, 55, 5);
+	font-size:18px;
+	text-shadow:0px 0px 1px #000;
+}
+.Subhead
+{
+	font-family:"trebuchet MS";
+	color:#60F;
+	font-size:20px;
+	text-shadow:1px 1px 1px #000;
+}
+.info
+{
+	font-family:"trebuchet MS";
+	font-size:16px;
+	color:#090;
+	text-shadow:0px 0px 4px #0F0;
+}
+a:link{font-family:"trebuchet MS";color:rgb(32, 30, 30);font-size:16px;text-decoration:none;}
+a:active{font-family:"trebuchet MS";color:rgb(227, 115, 2);font-size:16px;text-decoration:none;}
+a:visited{font-family:"trebuchet MS";color:rgb(249, 4, 106);font-size:16px;text-decoration:none;}
+a:hover{font-family:"trebuchet MS";font-size:16px;text-decoration:none;text-shadow:1px 1px 1px #000;}
+option{background-color:rgb(155, 207, 241);border:hidden;}
+th{font-family:"trebuchet MS";font-size:16px;color:#333;text-shadow:0px 0px 1px #000000;}
+th
+{
+ border-bottom:1px solid #000;
+}
+td {vertical-align:top;}
+.i1{
+	position:absolute;
+	left:370px;
+}
+.i2{
+	position:absolute;
+	left:750px;
+}
+
